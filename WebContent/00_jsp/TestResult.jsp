@@ -41,7 +41,7 @@
 
 		<tr>
 			<td width="150px">선택과목</td>
-			<td width="150px"><%=subject%></td>
+			<td width="150px"><%=subject%></td>2
 		</tr>
 
 	</table>
